@@ -1,0 +1,6 @@
+# don't commit to git what we don't want to push
+policyfiles/*
+users/*
+clients/*
+groups/*
+
